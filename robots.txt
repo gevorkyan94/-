@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://верный-сервис.kz/sitemap.xml
